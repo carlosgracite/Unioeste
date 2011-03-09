@@ -2,6 +2,9 @@
  *
  */
 
+#include <stdlib.h>
+#include <stdio.h>
+
 unsigned distance(unsigned seq1, unsigned seq2, int k) {
 	unsigned dist = 0;
 	
